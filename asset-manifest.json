@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Convite-casamento/static/css/main.00a91f49.css",
+    "main.js": "/Convite-casamento/static/js/main.515b8de1.js",
+    "static/js/787.f9347cef.chunk.js": "/Convite-casamento/static/js/787.f9347cef.chunk.js",
+    "static/media/gifs-animados-de-brilho-1.gif": "/Convite-casamento/static/media/gifs-animados-de-brilho-1.1c2b555fa807497d8a90.gif",
+    "static/media/gif": "/Convite-casamento/static/media/3f4754b6781554548f2853bda16a02a0.939f2a29a0ac13f0b195.gif",
+    "static/media/VideoCapture_20230216-120655.jpg": "/Convite-casamento/static/media/VideoCapture_20230216-120655.1b80cd5a2379b49f278a.jpg",
+    "static/media/1677163365781.jpg": "/Convite-casamento/static/media/1677163365781.f5b92eb67fa1c1098166.jpg",
+    "static/media/rosa.png": "/Convite-casamento/static/media/rosa.9e36364681dc736cd219.png",
+    "static/media/Vectorizeimages-Iconpack-Map.512.png": "/Convite-casamento/static/media/Vectorizeimages-Iconpack-Map.512.9c32fcc057bb7c3b6ea7.png",
+    "static/media/whatsapp.png": "/Convite-casamento/static/media/whatsapp.c75084c4f67a9e4b0ba3.png",
+    "index.html": "/Convite-casamento/index.html",
+    "main.00a91f49.css.map": "/Convite-casamento/static/css/main.00a91f49.css.map",
+    "main.515b8de1.js.map": "/Convite-casamento/static/js/main.515b8de1.js.map",
+    "787.f9347cef.chunk.js.map": "/Convite-casamento/static/js/787.f9347cef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00a91f49.css",
+    "static/js/main.515b8de1.js"
+  ]
+}
