@@ -15,7 +15,7 @@ function home({value}) {
       <h2 className='Nome msg'>Convidam você <h2 className='nomeCon'>{value}</h2> e sua familia  para cerimônia de seu casamento.</h2>
       <div className='date'>
       <h1 className='Nome mes'>MAIO </h1>
-      <h2 className='Nome data'>Sábado <span className='numeral'>20</span> ás 16hrs</h2>
+      <h2 className='Nome data'>--- <span className='numeral'>--</span> ás ---hrs</h2>
       <h2 className='Nome mes'>2023</h2>
       </div>
       <div className='links'>
